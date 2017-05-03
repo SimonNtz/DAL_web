@@ -2,6 +2,15 @@
 layout: default
 ---
 
+<style>
+.rspt {
+  text-align: justify;
+  hyphens: auto;
+  column-count: 2;
+  column-gap: 3em;
+}
+</style>
+
 <div class="jumbotron jumbotron-fluid">
   <div class="container">
     <h1 class="display-3">DAL</h1>
@@ -13,7 +22,7 @@ layout: default
 <div class="container">
   <div class="jumbotron">
     <h1 class="display-5">Qui sommes-nous?</h1>
-    <p>
+    <p class="rspt my-md-4">
       Une association dont tous-tes les membres sont engagés-es sur le terrain social. Ici l'un d'entre nous est vice-président du comité des aînés d'UNIA, là encore, une Daliste siège à l'IMAD ou représente Ensemble à Gauche à la Fondation pour l'accueil et l'hébergement des personnes âgées. Nous sommes plusieurs à faire partie de l'ASLOCA, l'une d'entre nous siège au conseil d'administration d'une grande
       fondation immobilière subventionnée par l'Etat et Christian Grobet a participé à la
       fondation du DAL. Sur le front de l'emploi, l'une de nos membres travaille dans une
