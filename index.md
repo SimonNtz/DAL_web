@@ -15,7 +15,7 @@ layout: default
   <div class="container">
     <h1 class="display-3">DAL</h1>
     <p class="lead">Défense des Aînés des Locataires du Logement et du Social</p>
-    <a href="/activitées/programme.html">Programme du DAL</a>
+    <a href="/activites/programme.html" class="btn btn-primary btn-lg">Programme du DAL</a>
   </div>
 </div>
 
