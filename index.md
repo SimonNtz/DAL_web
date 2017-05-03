@@ -19,9 +19,8 @@ layout: default
   </div>
 </div>
 
-<div class="container">
-  <div class="jumbotron">
-    <h1 class="display-5">Qui sommes-nous?</h1>
+<div class="container mb-5">
+    <h1>Qui sommes-nous?</h1>
     <p class="rspt my-md-4">
       Une association dont tous-tes les membres sont engagés-es sur le terrain social. Ici l'un d'entre nous est vice-président du comité des aînés d'UNIA, là encore, une Daliste siège à l'IMAD ou représente Ensemble à Gauche à la Fondation pour l'accueil et l'hébergement des personnes âgées. Nous sommes plusieurs à faire partie de l'ASLOCA, l'une d'entre nous siège au conseil d'administration d'une grande
       fondation immobilière subventionnée par l'Etat et Christian Grobet a participé à la
@@ -41,41 +40,38 @@ layout: default
     <p class="lead">
       <a class="btn btn-primary btn-lg" href="#" role="button">En apprendre plus sur nous</a>
     </p>
+</div>
+
+<div class="py-5">
+  <div class="container">
+    <h1 class="mb-4">Activités</h1>
+    <div class="card-deck">
+      <div class="card">
+        <div class="card-block">
+          <h4 class="card-title">Programme du DAL</h4>
+          <p class="card-text">Le DAL a établi un programme municipal et un programme cantonal dans lequel nous abordons notamment les problèmes du handicap, de l'égalité, de la mobilité,de la culture, du sport et de la fiscalité. Nous avons défendu l'initiative AVS+ et luttons résolument contre l'introduction de la réforme de l'imposition des entreprises RIE 3.</p>
+          <p class="card-text"><a href="/activites/programme.html">> Lire la suite</a></p>
+        </div>
+      </div>
+      <div class="card mt-3 mt-md-0">
+        <div class="card-block">
+          <h4 class="card-title">Mobilité et Environnement</h4>
+          <p class="card-text">Une politique qui contribue efficacement à lutter contre le réchauffement climatique.</p>
+          <p class="card-text"><a href="/activites/mobilité-environnement.html">> Lire la suite</a></p>
+        </div>
+      </div>
+      <div class="card mt-3 mt-md-0">
+        <div class="card-block">
+          <h4 class="card-title">Handicap</h4>
+          <p class="card-text">Le DAL considère que l'insertion des personnes à mobilité réduite dans la société fait partie de l'une de ses priorités absolue.</p>
+          <p class="card-text"><a href="/activites/handicap.html">> Lire la suite</a></p>
+        </div>
+      </div>
+    </div>
   </div>
 </div>
 
-<hr class="my-5">
-
-<div class="container">
-  <h1 class="mb-4">Activités</h1>
-  <div class="card-deck">
-    <div class="card">
-      <div class="card-block">
-        <h4 class="card-title">Programme du DAL</h4>
-        <p class="card-text">Le DAL a établi un programme municipal et un programme cantonal dans lequel nous abordons notamment les problèmes du handicap, de l'égalité, de la mobilité,de la culture, du sport et de la fiscalité. Nous avons défendu l'initiative AVS+ et luttons résolument contre l'introduction de la réforme de l'imposition des entreprises RIE 3.</p>
-        <p class="card-text"><a href="/activites/programme.html">> Lire la suite</a></p>
-      </div>
-    </div>
-    <div class="card mt-3 mt-md-0">
-      <div class="card-block">
-        <h4 class="card-title">Mobilité et Environnement</h4>
-        <p class="card-text">Une politique qui contribue efficacement à lutter contre le réchauffement climatique.</p>
-        <p class="card-text"><a href="/activites/mobilité-environnement.html">> Lire la suite</a></p>
-      </div>
-    </div>
-    <div class="card mt-3 mt-md-0">
-      <div class="card-block">
-        <h4 class="card-title">Handicap</h4>
-        <p class="card-text">Le DAL considère que l'insertion des personnes à mobilité réduite dans la société fait partie de l'une de ses priorités absolue.</p>
-        <p class="card-text"><a href="/activites/handicap.html">> Lire la suite</a></p>
-      </div>
-    </div>
-  </div>
-</div>
-
-<hr class="my-5">
-
-<div class="container">
+<div class="container mt-5">
   <h1 class="mb-4">Membres du Comité</h1>
   <div class="row">
     <div class="col-md-4">
