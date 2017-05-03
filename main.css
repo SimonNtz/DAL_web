@@ -1,4 +1,11 @@
-header[role="banner"] {
+.jumbotron.jumbotron-fluid {
+  background-image:url('https://upload.wikimedia.org/wikipedia/commons/a/ab/Geneve_2005_001_Ork.ch.jpg');
+  height: 500px;
+  background-size: cover;
+}
+
+
+/*header[role="banner"] {
   #banner-main{
     display: block;
     margin-top: 20px;
@@ -87,4 +94,4 @@ hr{
   margin-top: 0px;
 	border-top: 2px solid ;
   size:5px;
-}
+}*/
