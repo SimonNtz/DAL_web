@@ -97,7 +97,7 @@ layout: default
       <p class="font-weight-bold mb-0 text-uppercase">Corinne Khaouchi</p>
     </div>
     <div class="col-md-4 mt-5 mt-md-0">
-      <img src="/img/members/female-silhouette.png" alt="Francoise Clarisse EYEBE NGONO" class="w-100 mb-3">
+      <img src="/img/members/françoise-ngono.jpg" alt="Francoise Clarisse EYEBE NGONO" class="w-100 mb-3">
       <p class="font-weight-bold mb-0 text-uppercase">Francoise Clarisse EYEBE NGONO</p>
     </div>
   </div>
