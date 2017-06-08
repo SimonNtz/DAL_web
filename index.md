@@ -11,15 +11,21 @@ layout: default
 }
 </style>
 
-<div class="jumbotron jumbotron-fluid">
-  <div class="container">
-    <h1 class="display-3">DAL</h1>
-    <p class="lead">Défense des Aînés des Locataires du Logement et du Social</p>
-    <a href="/activites/programme.html" class="btn btn-primary btn-lg">Programme du DAL</a>
+<div class="element-I>"
+style="background-color:#ebebeb">
+
+<div class="container-fluid">
+  <div class="jumbotron">
+    <h1 class="display-4">Conscience Sociale</h1>
+    <div class="btn-jumbo">
+      <a href="/activites/programme.html" class="btn btn-primary btn-lg">Lire notre programme</a>
+    </div>
   </div>
 </div>
 
-<div class="container mb-5">
+
+<div class="el-2">
+<div class="container mb-5"  style="background-color:#f2f2f2;">
     <h1>Qui sommes-nous?</h1>
     <p class="rspt my-md-4">
       Une association dont tous-tes les membres sont engagés-es sur le terrain social. Ici l'un d'entre nous est vice-président du comité des aînés d'UNIA, là encore, une Daliste siège à l'IMAD ou représente Ensemble à Gauche à la Fondation pour l'accueil et l'hébergement des personnes âgées. Nous sommes plusieurs à faire partie de l'ASLOCA, l'une d'entre nous siège au conseil d'administration d'une grande
@@ -41,6 +47,9 @@ layout: default
       <a class="btn btn-primary btn-lg" href="#" role="button">En apprendre plus sur nous</a>
     </p>
 </div>
+
+</div>
+
 
 <div class="py-5">
   <div class="container">
@@ -101,4 +110,6 @@ layout: default
       <p class="font-weight-bold mb-0 text-uppercase">Francoise Clarisse EYEBE NGONO</p>
     </div>
   </div>
+</div>
+
 </div>

@@ -13,30 +13,36 @@
 
   <link href="https://fonts.googleapis.com/css?family=Quicksand" rel="stylesheet">
   <style media="screen">
-    h1, h2, h3, h4 {
+     h2, h3, h4 {
       font-family: Quicksand, serif;
     }
-  </style>
-  <link href="narrow-jumbotron.css" rel="stylesheet">
+    h1 {
+      font-family: Rubik,-apple-system,system-ui,BlinkMacSystemFont,Segoe UI,Roboto,Helvetica Neue,Arial,sans-serif
+    }
+    </style>
 </head>
-<body class="mb-5">
-  <nav class="navbar sticky-top navbar-toggleable-md navbar-light bg-faded">
+
+<body>
+<div id="header-content">
+  <nav class="navbar sticky-top navbar-toggleable-md navbar-light bg-faded"
+  style="font-color:#ffff;font-size:12px;">
+  <div class="navbar-header">
     <button class="navbar-toggler navbar-toggler-right" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
       <span class="navbar-toggler-icon"></span>
     </button>
-    <a class="navbar-brand" href="/">
-      <img alt="DAL logo" src="img/logo/DAL_logo.svg" width="25%" >
+  </div>
+
+    <a href="/" class="navbar-brand router-link-exact-active active">
+      <img alt="DAL's logo" height="30" src="img/logo/DAL_logo.svg" width="73">
     </a>
-
-    <div class="collapse navbar-collapse" id="navbarSupportedContent">
-
-
-      <div class="collapse navbar-collapse" id="navbarToggler" aria-expanded="false">
+      <div class="collapse navbar-collapse" id="navbarSupportedContent" aria-expanded="false">
         <ul class="ml-auto mt-2 mt-md-0 navbar-nav">
           <li class="nav-item"><a href="/" class="nav-link">Accueil</a></li>
           <li class="nav-item"><a href="/membres" class="nav-link">Membres</a></li>
           <li class="nav-item"><a href="/activites" class="nav-link">Activités</a></li>
           <li class="nav-item"><a href="/contact" class="nav-link">Contact</a></li>
         </ul>
-    </div>
+      </div>
   </nav>
+  </div>
+</body>
