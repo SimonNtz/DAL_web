@@ -1,8 +1,10 @@
 .jumbotron {
   background-image:url('https://upload.wikimedia.org/wikipedia/commons/a/ab/Geneve_2005_001_Ork.ch.jpg');
-  height: 350px;
+  height: 400px;
+  width: 100%;
   background-size: cover;
   color:white;
+  margin:0;
 }
 
 .jumbotron h1 {
@@ -10,16 +12,19 @@ padding-top:5%;
 padding-left:4.5 %;
 }
 
-.btn-primary {
-opacity: 0.8;
-filter: alpha(opacity=50);
-}
-
 .btn-jumbo {
   padding-top: 5%;
   padding-left: 5%;
-
+  opacity: 0.8;
+  filter: alpha(opacity=50);
 }
+
+btn-primary btn-lg {
+  span{
+    opacity: 1;
+  }
+}
+
 
 .display-4 {
   font-weight: bold;
