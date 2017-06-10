@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   viewBox="0 0 377.52133 237.33333"
+   height="237.33333"
+   width="377.52133"
+   xml:space="preserve"
+   id="svg2"
+   version="1.1"><metadata
+     id="metadata8"><rdf:RDF><cc:Work
+         rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" /></cc:Work></rdf:RDF></metadata><defs
+     id="defs6"><clipPath
+       id="clipPath22"
+       clipPathUnits="userSpaceOnUse"><path
+         id="path20"
+         d="M 0,178 H 283.141 V 0 H 0 Z" /></clipPath></defs><g
+     transform="matrix(1.3333333,0,0,-1.3333333,0,237.33333)"
+     id="g10"><text
+       id="text14"
+       style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.69999981px;font-family:Arial;-inkscape-font-specification:ArialMT;writing-mode:lr-tb;fill:#3455ae;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       transform="matrix(1,0,0,-1,30.8052,38.4297)"><tspan
+         id="tspan12"
+         y="0"
+         x="0 7.7254 14.8623 21.4 28.5369 36.262299 43.3992 50.536098 53.5107 61.236099 68.373001 75.509903 77.891724 85.028618 88.00322 95.728622 102.86552 106.42862 113.56552 117.12862 124.26552 127.24012 130.21472 137.94012 145.07703 152.21391 155.18852 161.13773 169.46233 177.18771 183.53069 189.27338 196.41026 199.38487 207.11028 214.24718 221.38406">DÉFENSE DES AÎNÉ-E-S, DES LOCATAIRES,</tspan></text>
+<g
+       id="g16"><g
+         clip-path="url(#clipPath22)"
+         id="g18"><text
+           id="text30"
+           style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:140px;font-family:Arial;-inkscape-font-specification:ArialMT;writing-mode:lr-tb;fill:#ee252b;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           transform="matrix(1,0,0,-1,179.9639,52.3223)"><tspan
+             id="tspan24"
+             y="0"
+             x="0">L</tspan><tspan
+             id="tspan26"
+             y="0"
+             x="-68.18">A</tspan><tspan
+             id="tspan28"
+             y="0.14"
+             x="-160.3">D</tspan></text>
+</g></g><text
+       id="text34"
+       style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.69999981px;font-family:Arial;-inkscape-font-specification:ArialMT;writing-mode:lr-tb;fill:#3455ae;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       transform="matrix(1,0,0,-1,69.395,27.5889)"><tspan
+         id="tspan32"
+         y="0"
+         x="0 7.7254 14.8623 17.836901 23.196529 25.57193 32.708832 41.621929 48.758831 54.708031 63.032631 66.007233 68.981827 76.118729 82.461693 85.436287 93.16169 100.88709 103.86169 110.99859 119.32319 127.04859 130.02319 137.1601 142.71339">DE L’EMPLOI ET DU SOCIAL </tspan></text>
+</g></svg>
