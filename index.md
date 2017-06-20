@@ -8,25 +8,23 @@ layout: default
   hyphens: auto;
   column-count: 2;
   column-gap: 3em;
+  font-size:15px;
 }
 </style>
 
-<div class="element-I>"
-style="background-color:#ebebeb">
-
-<div class="container-fluid">
-  <div class="jumbotron">
-    <h1 class="display-4">Conscience Sociale</h1>
-    <div class="btn-jumbo">
-      <a href="/activites/programme.html" class="btn btn-primary btn-lg">Lire notre programme</a>
-    </div>
-  </div>
+<div class="jumbotron">
+        <h1>Conscience Sociale</h1>
+        <p class="lead"></p>
+        <div class="btn-jumbo">
+        <p class="text-center"><a class="btn btn-primary btn-lg" role="button">Lire notre programme</a></p>
+      </div>
 </div>
 
 
-<div class="el-2">
-<div class="container mb-5"  style="background-color:#f2f2f2;">
-    <h1>Qui sommes-nous?</h1>
+<div class="mx-auto" style="width: 800px;">
+<div class="container my-5"  style="background-color:#f2f2f2;border-radius:15px;">
+  <div class="divider-outside-bottom">
+    <h1 class="txt_presentation">Qui sommes-nous?</h1 >
     <p class="rspt my-md-4">
       Une association dont tous-tes les membres sont engagés-es sur le terrain social. Ici l'un d'entre nous est vice-président du comité des aînés d'UNIA, là encore, une Daliste siège à l'IMAD ou représente Ensemble à Gauche à la Fondation pour l'accueil et l'hébergement des personnes âgées. Nous sommes plusieurs à faire partie de l'ASLOCA, l'une d'entre nous siège au conseil d'administration d'une grande
       fondation immobilière subventionnée par l'Etat et Christian Grobet a participé à la
@@ -46,6 +44,7 @@ style="background-color:#ebebeb">
     <p class="lead">
       <a class="btn btn-primary btn-lg" href="#" role="button">En apprendre plus sur nous</a>
     </p>
+</div>
 </div>
 
 </div>
@@ -112,4 +111,59 @@ style="background-color:#ebebeb">
   </div>
 </div>
 
+<div class="mx-auto" style="width: 800px;">
+
+
+<div id="text-carousel" class="carousel slide" data-ride="carousel">
+    <!-- Wrapper for slides -->
+    <div class="row">
+        <div class="col-xs-offset-3 col-xs-6">
+            <div class="carousel-inner">
+                <div class="item active">
+                    <div class="carousel-content">
+                      <div class="card card-inverse card-primary mb-3 text-center">
+                        <div class="card-block">
+                          <h4 class="card-title">Programme du DAL</h4>
+                          <p class="card-text">Le DAL a établi un programme municipal et un programme cantonal dans lequel nous abordons notamment les problèmes du handicap, de l'égalité, de la mobilité,de la culture, du sport et de la fiscalité. Nous avons défendu l'initiative AVS+ et luttons résolument contre l'introduction de la réforme de l'imposition des entreprises RIE 3.</p>
+                          <p class="card-text"><a href="/activites/programme.html">> Lire la suite</a></p>
+                        </div>
+                      </div>
+                    </div>
+                </div>
+                <div class="item">
+                    <div class="carousel-content">
+                      <div class="card card-inverse card-success mb-3 text-center">
+                        <div class="card-block">
+                          <h4 class="card-title">Mobilité et Environnement</h4>
+                          <p class="card-text">Une politique qui contribue efficacement à lutter contre le réchauffement climatique.</p>
+                          <p class="card-text"><a href="/activites/mobilité-environnement.html">> Lire la suite</a></p>
+                        </div>
+                      </div>
+                    </div>
+                </div>
+                <div class="item">
+                    <div class="carousel-content">
+                      <div class="card card-inverse card-info mb-3 text-center">
+                        <div class="card-block">
+                          <h4 class="card-title">Handicap</h4>
+                          <p class="card-text">Le DAL considère que l'insertion des personnes à mobilité réduite dans la société fait partie de l'une de ses priorités absolue.</p>
+                          <p class="card-text"><a href="/activites/handicap.html">> Lire la suite</a></p>
+                        </div>
+                      </div>
+                    </div>
+                </div>
+
+            </div>
+        </div>
+    </div>
+    <!-- Controls --> <a class="left carousel-control" href="#text-carousel" data-slide="prev">
+    <span class="glyphicon glyphicon-chevron-left"></span>
+  </a>
+ <a class="right carousel-control" href="#text-carousel" data-slide="next">
+    <span class="glyphicon glyphicon-chevron-right"></span>
+  </a>
+
 </div>
+</div>
+<script src='http://cdnjs.cloudflare.com/ajax/libs/jquery/2.1.3/jquery.min.js'></script>
+<script src='https://maxcdn.bootstrapcdn.com/bootstrap/3.1.1/js/bootstrap.min.js'></script>
