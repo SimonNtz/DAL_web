@@ -23,12 +23,15 @@ font-size: 26px;
 border-radius:17  px;
 
 }
+.bs-example {
+  padding-top: 30px;
+}
 
 .btn btn-primary {
   opacity: 1;
 }
 
-body { padding-top: 80px; }
+body {margin-top: 80px;}
 @media screen and (max-width: 768px) {
     body { padding-top: 0px; }
 }
@@ -54,7 +57,6 @@ filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#ffffffff', en
   padding: 0px;
   vertical-align: top;
 }
-
 
 
 .lead {
@@ -108,4 +110,18 @@ filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#ffffffff', en
 
 .activites h1 {
   color : #e60000;
+}
+
+
+a.list-group-item {
+    text-align: left;
+
+    height:auto;
+    min-height:220px;
+    background-color:#F5F5F5;
+    display: inline;
+}
+
+.figure-text {
+    margin:16px;
 }

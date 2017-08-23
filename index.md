@@ -16,7 +16,7 @@ layout: default
         <h1>Conscience Sociale</h1>
         <p class="lead"></p>
         <div class="btn-jumbo">
-        <p class="text-center"><a class="btn btn-primary btn-lg" role="button">Lire notre programme</a></p>
+        <p class="text-center"><a href="activites/programme.html" class="btn btn-primary btn-lg" role="button">Lire notre programme</a></p>
       </div>
 </div>
 
@@ -79,37 +79,7 @@ layout: default
   </div>
 </div>
 
-<div class="container mt-5">
-  <h1 class="mb-4">Membres du Comité</h1>
-  <div class="row">
-    <div class="col-md-4">
-      <img src="/img/members/christian-zaugg.jpg" alt="Christian Zaugg" class="w-100 mb-3">
-      <p class="font-weight-bold mb-0 text-uppercase">Christian Zaugg</p>
-    </div>
-    <div class="col-md-4 mt-5 mt-md-0">
-      <img src="/img/members/stephanie-valentino.jpg" alt="Stephanie Valentino" class="w-100 mb-3">
-      <p class="font-weight-bold mb-0 text-uppercase">Stephanie Valentino</p>
-    </div>
-    <div class="col-md-4 mt-5 mt-md-0">
-      <img src="/img/members/daniel-zaugg.jpg" alt="Daniel Zaugg" class="w-100 mb-3">
-      <p class="font-weight-bold mb-0 text-uppercase">Daniel Zaugg</p>
-    </div>
-  </div>
-  <div class="row mt-0 mt-md-5">
-    <div class="col-md-4 mt-5 mt-md-0">
-      <img src="/img/members/cecilia-zaugg.jpg" alt="Cecilia Zaugg" class="w-100 mb-3">
-      <p class="font-weight-bold mb-0 text-uppercase">Cecilia Zaugg</p>
-    </div>
-    <div class="col-md-4 mt-5 mt-md-0">
-      <img src="/img/members/female-silhouette.png" alt="Corinne Khaouchi" class="w-100 mb-3">
-      <p class="font-weight-bold mb-0 text-uppercase">Corinne Khaouchi</p>
-    </div>
-    <div class="col-md-4 mt-5 mt-md-0">
-      <img src="/img/members/françoise-ngono.jpg" alt="Francoise Clarisse EYEBE NGONO" class="w-100 mb-3">
-      <p class="font-weight-bold mb-0 text-uppercase">Francoise Clarisse EYEBE NGONO</p>
-    </div>
-  </div>
-</div>
+
 
 <div class="mx-auto" style="width: 800px;">
 
