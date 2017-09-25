@@ -1,1 +1,0 @@
-IDRViewer.config = {"pagecount":1,"title":"dal final","author":"","fileName":"dal_final_3__1_.pdf","bounds":[[432,271]],"bookmarks":[],"thumbnailType":"jpg","pageType":"svg","pageLabels":[]};
