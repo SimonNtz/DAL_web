@@ -1,4 +1,5 @@
-body {
+body {
+  padding-top: 108px;
   font-family: Rubik, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
 }
 
@@ -26,9 +27,6 @@ filter: alpha(opacity=50);
 font-size: 26px;
 border-radius:17  px;
 
-}
-.bs-example {
-  padding-top: 30px;
 }
 
 .btn btn-primary {
