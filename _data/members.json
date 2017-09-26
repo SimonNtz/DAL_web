@@ -1,0 +1,58 @@
+[
+  {
+      "name": "Christian Zaugg",
+      "description": "Président, député au Grand Conseil, membre de la commission judiciaire et de la police, membre de la commission des visiteurs officiels, membre de la commission des transports, président du SATUS, membre du comité de l'ATE, membre du comité de la CITRAP, membre de PRO VELO, membre de la SPG, chef de courses au Club Alpin, Vice-président du groupe des Aînés du syndicat UNIA, membre de l'AVIVO, de l'ASLOCA et président de l'Association pour un tourisme solidaire (ATSOL).",
+      "img": {
+        "src": "/assets/img/members/christian-zaugg.jpg"
+      }
+  },
+  {
+      "name": "Corinne Khaouchi",
+      "description": "Vice-présidente, ancienne conseillère municipale, membre du Conseil de fondation de l'IMAD, membre de PROCAP et du Club sportif en fauteuil roulant Carouge-GE, secrétaire de l'Association L'Autre Regard et du Groupement romand de Sclérose en plaques. Secrétaire de la Société Restauration et Premier juin, membre du comité de l'Association MALIKA.",
+      "img": {
+        "src": "/assets/img/members/corinne-khaouchi.jpg"
+      }
+  },
+  {
+      "name": "Stéphanie Valentino",
+      "description": "Trésorière, infirmière à Beau-Séjour, membre du SIT.",
+      "img": {
+        "src": "/assets/img/members/stephanie-valentino.jpg"
+      }
+  },
+  {
+      "name": "Daniel Zaugg",
+      "description": "Master en histoire, procès-verbaliste, membre du Club Alpin, membre d'ATSOL.",
+      "img": {
+        "src": "/assets/img/members/daniel-zaugg.jpg"
+      }
+  },
+  {
+      "name": "Pia Langford",
+      "description": "Professeure d'anglais, Secrétaire, membre de la Fondation pour l'accueil et l'hébergement des personnes âgées (FAHPA) et de la commission de l'établissement des Tilleuls.",
+      "img": {
+        "src": "/assets/img/members/pia-langford.jpg"
+      }
+  },
+  {
+      "name": "Iullia Agildina",
+      "description": "Chargée du compte Facebook, juriste, membre de l'Association... (demander).",
+      "img": {
+        "src": "/assets/img/members/iullia-agildina.jpg"
+      }
+  },
+  {
+      "name": "Cecilia Zaugg",
+      "description": "Vérificatrice aux comptes, gestionnaire, membre du comité du SIT, membre de la commission du personnel de la Ville de Genève et Coprésidente de la CISEEP, membre du Club Alpin, Vice-présidente d'ATSOL.",
+      "img": {
+        "src": "/assets/img/members/cecilia-zaugg.jpg"
+      }
+  },
+  {
+      "name": "Omar Khaouchi",
+      "description": "Vérificateur aux comptes, majordome, membre du Club sportif en fauteuil roulant, membre de la Société Restauration et premier juin, membre de l'Association MALIKA.",
+      "img": {
+        "src": "/assets/img/members/omar-khaouchi.jpg"
+      }
+  }
+]
