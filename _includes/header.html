@@ -29,13 +29,33 @@
         <span class="navbar-toggler-icon"></span>
       </button>
       <div class="collapse navbar-collapse" id="navbar">
-        <div class="navbar-nav ml-auto">
-          <a class="nav-item nav-link" href="/">Accueil</a>
-          <a class="nav-item nav-link" href="/membres/">Membres</a>
-          <a class="nav-item nav-link" href="/programme/">Programme</a>
-          <a class="nav-item nav-link" href="/activites/">Activités</a>
-          <a class="nav-item nav-link" href="/contact/">Contact</a>
-        </div>
+        <ul class="navbar-nav ml-auto">
+          <li class="nav-item active">
+            <a class="nav-link" href="/">Accueil</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link" href="/membres/">Membres</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link" href="/programme/">Programme</a>
+          </li>
+          <li class="nav-item dropdown">
+            <a class="nav-link dropdown-toggle" href="/activites/" id="navbarDropdownActivites" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+              Activités
+            </a>
+            <div class="dropdown-menu" aria-labelledby="navbarDropdownActivites">
+              <a class="dropdown-item" href="/activites/alimentation/">Alimentation</a>
+              <a class="dropdown-item" href="/activites/handicap/">Handicap</a>
+              <a class="dropdown-item" href="/activites/mobilite-et-environnement/">Mobilité et Environnement</a>
+              <a class="dropdown-item" href="/activites/parking-brenaz/">Parking Brenaz</a>
+              <a class="dropdown-item" href="/activites/prostitution/">Prostitution</a>
+              <a class="dropdown-item" href="/activites/securite/">Sécurité</a>
+            </div>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link" href="/contact/">Contact</a>
+          </li>
+        </ul>
       </div>
     </nav>
   </header>
