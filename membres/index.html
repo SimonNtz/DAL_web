@@ -2,14 +2,12 @@
 layout: default
 ---
 
-<div class="container">
-  <h1>Membres du Comité</h1>
+<h1>Membres du Comité</h1>
 
-  <div class="list-group">
-    {% for member in site.data.members %}
-      <div class="list-group-item bg-light">
-        {% include members/member-card.html %}
-      </div>
-    {% endfor %}
-  </div>
+<div class="list-group">
+  {% for member in site.data.members %}
+    <div class="list-group-item bg-light">
+      {% include members/member-card.html %}
+    </div>
+  {% endfor %}
 </div>
