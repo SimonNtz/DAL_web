@@ -30,31 +30,24 @@
       </button>
       <div class="collapse navbar-collapse" id="navbar">
         <ul class="navbar-nav ml-auto">
-          <li class="nav-item active">
-            <a class="nav-link" href="/">Accueil</a>
-          </li>
-          <li class="nav-item">
-            <a class="nav-link" href="/membres/">Membres</a>
-          </li>
-          <li class="nav-item">
-            <a class="nav-link" href="/programme/">Programme</a>
-          </li>
-          <li class="nav-item dropdown">
-            <a class="nav-link dropdown-toggle" href="/activites/" id="navbarDropdownActivites" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-              Activités
-            </a>
-            <div class="dropdown-menu" aria-labelledby="navbarDropdownActivites">
-              <a class="dropdown-item" href="/activites/alimentation/">Alimentation</a>
-              <a class="dropdown-item" href="/activites/handicap/">Handicap</a>
-              <a class="dropdown-item" href="/activites/mobilite-et-environnement/">Mobilité et Environnement</a>
-              <a class="dropdown-item" href="/activites/parking-brenaz/">Parking Brenaz</a>
-              <a class="dropdown-item" href="/activites/prostitution/">Prostitution</a>
-              <a class="dropdown-item" href="/activites/securite/">Sécurité</a>
-            </div>
-          </li>
-          <li class="nav-item">
-            <a class="nav-link" href="/contact/">Contact</a>
-          </li>
+         {% for item in site.data.menu.menu %}
+          {% if item.subfolderitems %}
+            <li class="nav-item {% if page.url contains item.url %}active{% endif %} dropdown">
+              <a class="nav-link dropdown-toggle" href="{{ item.url }}" id="navbarDropdown{{ item.title }}" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                {{ item.title }}
+              </a>
+              <div class="dropdown-menu" aria-labelledby="navbarDropdown{{ item.title }}">
+                {% for entry in item.subfolderitems %}
+                  <a class="dropdown-item {% if entry.url == page.url %}active{% endif %}" href="{{ entry.url }}" alt="{{ entry.page }}">{{ entry.page }}</a>
+                {% endfor %}
+              </div>
+            </li>
+          {% else %}
+            <li class="nav-item {% if item.url == page.url %}active{% endif %}">
+              <a href="{{ item.url }}" alt="{{ item.title }}" class="nav-link">{{ item.title }}</a>
+            </li>
+          {% endif %}
+         {% endfor %}
         </ul>
       </div>
     </nav>

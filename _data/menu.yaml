@@ -1,0 +1,28 @@
+menu:
+  - title: Accueil
+    url: /
+
+  - title: Membres
+    url: /membres/
+
+  - title: Programme
+    url: /programme/
+
+  - title: Activités
+    url: /activites/
+    subfolderitems:
+      - page: Alimentation
+        url: /activites/alimentation/
+      - page: Handicap
+        url: /activites/handicap/
+      - page: Mobilité et Environnement
+        url: /activites/mobilite-et-environnement/
+      - page: Parking Brenaz
+        url: /activites/parking-brenaz/
+      - page: Prostitution
+        url: /activites/prostitution/
+      - page: Sécurité
+        url: /activites/securite/
+
+  - title: Contact
+    url: /contact/
