@@ -1,6 +1,8 @@
 body {
   padding-top: 72px;
-  font-family: Rubik, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+  font-family: Cabin, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";*/
+  /*font-family: Maison Neue,Helvetica,sans-serif*/
+  /*font-family: 'Frutiger Neue W02 Light',sans-serif*/
 }
 
 .jumbotron {
@@ -23,4 +25,25 @@ body {
 
 .navbar {
   border-bottom: 1px solid #F0F0F0;
+}
+
+.card .main-text {
+    background-color: #FDF2EE;
+    border-radius: 10px;
+}
+
+.card-header {
+    background-color: #FDF2EE;
+}
+
+.galeries-header .a {
+    background-color: red;
+    color : white;
+    margin: 15px;
+    font-size: 20px;
+    padding: 8px;
+}
+
+.galeries-header a:hover {
+    text-decoration:  none;
 }
