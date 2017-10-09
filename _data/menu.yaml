@@ -2,9 +2,6 @@ menu:
   - title: Accueil
     url: /
 
-  - title: Membres
-    url: /membres/
-
   - title: Programme
     url: /programme/
 
@@ -23,6 +20,9 @@ menu:
         url: /activites/prostitution/
       - page: Sécurité
         url: /activites/securite/
+
+  - title: Membres
+    url: /membres/
 
   - title: Contact
     url: /contact/
