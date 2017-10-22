@@ -1,65 +1,66 @@
+
 [
   {
-      "name": "Christian Zaugg",
-      "description": "Président, député au Grand Conseil, membre de la commission judiciaire et de la police, membre de la commission des visiteurs officiels, membre de la commission des transports, président du SATUS, membre du comité de l'ATE, membre du comité de la CITRAP, membre de PRO VELO, membre de la SPG, chef de courses au Club Alpin, Vice-président du groupe des Aînés du syndicat UNIA, membre de l'AVIVO, de l'ASLOCA et président de l'Association pour un tourisme solidaire (ATSOL).",
-      "img": {
-        "src": "christian-zaugg.jpg"
-      }
+    "name": "Christian Zaugg",
+    "description": "Président, député au Grand Conseil, membre de la commission judiciaire et de la police, membre de la commission des visiteurs officiels, membre de la commission des transports, président du SATUS, membre du comité de l'ATE, membre du comité de la CITRAP, membre de PRO VELO, membre de la SPG, chef de courses au Club Alpin, Vice-président du groupe des Aînés du syndicat UNIA, membre de l'AVIVO, de l'ASLOCA et président de l'Association pour un tourisme solidaire (ATSOL).",
+    "img": {
+      "src": "christian-zaugg.jpg"
+    }
   },
   {
-      "name": "Corinne Khaouchi",
-      "description": "Vice-présidente, ancienne conseillère municipale, membre du Conseil de fondation de l'IMAD, membre de PROCAP et du Club sportif en fauteuil roulant Carouge-GE, secrétaire de l'Association L'Autre Regard et du Groupement romand de Sclérose en plaques. Secrétaire de la Société Restauration et Premier juin, membre du comité de l'Association MALIKA.",
-      "img": {
-        "src": "corinne-khaouchi.jpg"
-      }
+    "name": "Corinne Khaouchi",
+    "description": "Vice-présidente, ancienne conseillère municipale, membre du Conseil de fondation de l'IMAD, membre de PROCAP et du Club sportif en fauteuil roulant Carouge-GE, secrétaire de l'Association L'Autre Regard et du Groupement romand de Sclérose en plaques. Secrétaire de la Société Restauration et Premier juin, membre du comité de l'Association MALIKA.",
+    "img": {
+      "src": "corinne-khaouchi.jpg"
+    }
   },
   {
-      "name": "Stéphanie Valentino",
-      "description": "Trésorière, infirmière à Beau-Séjour, membre du SIT.",
-      "img": {
-        "src": "stephanie-valentino.jpg"
-      }
+    "name": "Stéphanie Valentino",
+    "description": "Trésorière, infirmière à Beau-Séjour, membre du SIT.",
+    "img": {
+      "src": "stephanie-valentino.jpg"
+    }
   },
   {
-      "name": "Daniel Zaugg",
-      "description": "Master en histoire, procès-verbaliste, membre du Club Alpin, membre d'ATSOL.",
-      "img": {
-        "src": "daniel-zaugg.jpg"
-      }
+    "name": "Daniel Zaugg",
+    "description": "Master en histoire, procès-verbaliste, membre du Club Alpin, membre d'ATSOL.",
+    "img": {
+      "src": "daniel-zaugg.jpg"
+    }
   },
   {
-      "name": "Pia Langford",
-      "description": "Professeure d'anglais, Secrétaire, membre de la Fondation pour l'accueil et l'hébergement des personnes âgées (FAHPA) et de la commission de l'établissement des Tilleuls.",
-      "img": {
-        "src": "pia-langford.jpg"
-      }
+    "name": "Pia Langford",
+    "description": "Professeure d'anglais, Secrétaire, membre de la Fondation pour l'accueil et l'hébergement des personnes âgées (FAHPA) et de la commission de l'établissement des Tilleuls.",
+    "img": {
+      "src": "pia-langford.jpg"
+    }
   },
   {
-      "name": "Iullia Agildina",
-      "description": "Chargée du compte Facebook, juriste.",
-      "img": {
-        "src": "iullia-agildina.jpg"
-      }
+    "name": "Iullia Agildina",
+    "description": "Chargée du compte Facebook, juriste.",
+    "img": {
+      "src": "iullia-agildina.jpg"
+    }
   },
   {
-      "name": "Cecilia Zaugg",
-      "description": "Vérificatrice aux comptes, gestionnaire, membre du comité du SIT, membre de la commission du personnel de la Ville de Genève et Coprésidente de la CISEEP, membre du Club Alpin, Vice-présidente d'ATSOL.",
-      "img": {
-        "src": "cecilia-zaugg.jpg"
-      }
+    "name": "Cecilia Zaugg",
+    "description": "Vérificatrice aux comptes, gestionnaire, membre du comité du SIT, membre de la commission du personnel de la Ville de Genève et Coprésidente de la CISEEP, membre du Club Alpin, Vice-présidente d'ATSOL.",
+    "img": {
+      "src": "cecilia-zaugg.jpg"
+    }
   },
   {
-      "name": "Omar Khaouchi",
-      "description": "Vérificateur aux comptes, majordome, membre du Club sportif en fauteuil roulant, membre de la Société Restauration et premier juin, membre de l'Association MALIKA.",
-      "img": {
-        "src": "omar-khaouchi.jpg"
-      }
+    "name": "Omar Khaouchi",
+    "description": "Vérificateur aux comptes, majordome, membre du Club sportif en fauteuil roulant, membre de la Société Restauration et premier juin, membre de l'Association MALIKA.",
+    "img": {
+      "src": "omar-khaouchi.jpg"
+    }
   },
   {
-      "name": "Charlotte Meierhofer",
-      "description": "Ancienne conseillère municipale et présidente de la commission Agenda 21, Membre de la Fondation immobilière René et Kate Bloch, membre d'UNIA, de l'ASLOCA, présidente de l'Association Solidarité Mère-enfant pour le Développement durable et membre de l'Association BASSA.",
-      "img":{
-        "src": "charlotte-meierhofer.jpg"
+    "name": "Charlotte Meierhofer",
+    "description": "Ancienne conseillère municipale et présidente de la commission Agenda 21, Membre de la Fondation immobilière René et Kate Bloch, membre d'UNIA, de l'ASLOCA, présidente de l'Association Solidarité Mère-enfant pour le Développement durable et membre de l'Association BASSA.",
+    "img":{
+      "src": "charlotte-meierhofer.jpg"
     }
   }
 ]
