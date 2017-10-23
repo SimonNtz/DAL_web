@@ -1,3 +1,9 @@
+
+:root {
+  --programme_header_blue: #0066ff;
+  --programme_line_grey:#c8c8c8;
+}
+
 body {
   padding-top: 108px;
   font-family: Cabin, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
@@ -24,7 +30,7 @@ body {
 .programme_style h3 {
   text-transform: uppercase;
   text-align: center;
-  color: #0066ff;
+  color: var(--programme_header_blue);
   margin-bottom: 2rem;
   font-weight: bold;
 }
@@ -36,6 +42,5 @@ body {
 .programme_style hr {
   margin-top: 3.5rem;
   margin-bottom: 3.5rem;
-  border-top: 1px solid #C8C8C8;
-
+  border-top: 1px solid var(--programme_line_grey);
 }
