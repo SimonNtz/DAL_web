@@ -6,8 +6,10 @@ layout: default
 
 <div class="list-group">
   {% for member in site.data.members %}
-    <div class="list-group-item bg-light">
+  <div class="list-group-item bg-light">
+    <div class="text-justify">
       {% include members/member-card.html %}
     </div>
+  </div>
   {% endfor %}
 </div>
