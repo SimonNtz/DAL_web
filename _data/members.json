@@ -70,5 +70,8 @@
   {
     "name": "Sekna Ossman",
     "description": "Sekna Ossman est membre du comité du DAL. C'est une militante de la cause palestinienne et membre de l'Association pour un Tourisme solidaire ",
+    "img":{
+      "src": "sekna-ossmann.jpg"
+    }
   }
 ]
