@@ -63,5 +63,13 @@
     "img":{
       "src": "charlotte-meierhofer.jpg"
     }
+  },
+  {
+    "name": "Sophie Montalcini",
+    "description": "Sophie Montalcini est avocate et membre de l'association des juristes progessistes.",
+  },
+  {
+    "name": "Sekna Ossman",
+    "description": "Sekna Ossman est membre du comité du DAL. C'est une militante de la cause palestinienne et membre de l'Association pour un Tourisme solidaire ",
   }
 ]
